@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Omayma Fersi !
 
-![Bienvenue](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+![Bienvenue](https://tenor.com/fr/view/code-programming-developer-gif-27048375)
 
 🌟 **Développeuse web et mobile passionnée**  
 🔧 Technologies : React, Flutter, Laravel, Spring Boot, Express, Django, Java  
