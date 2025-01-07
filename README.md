@@ -1,4 +1,7 @@
 # 👋 Bonjour, je suis Omayma Fersi !
+
+![Bienvenue](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+
 🌟 **Développeuse web et mobile passionnée**  
 🔧 Technologies : React, Flutter, Laravel, Spring Boot, Express, Django, Java  
 👩‍💻 Ingénieure en développement web full-stack  
@@ -22,7 +25,7 @@
 - **IA** : TensorFlow (modèle d’analyse des images)
 - **Autres** : Firebase Storage pour la gestion des images
 
-### [ESPRITConnect](https://github.com/tonNomGitHub/ESPRITConnect) - Plateforme pour la gestion des stages pour les étudiants
+### [ESPRITConnect] - Plateforme pour la gestion des stages pour les étudiants
 **ESPRITConnect** est une plateforme dédiée à la gestion des stages pour les étudiants et les chercheurs. Elle permet aux utilisateurs de rechercher, postuler et suivre l’évolution de leurs candidatures pour des stages et des emplois.
 
 #### 🎯 Fonctionnalités
@@ -52,3 +55,6 @@
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![Flutter](https://img.shields.io/badge/Flutter-blue)
+
+## 🏆 Contributions GitHub
+![Contributions](https://activity-graph.herokuapp.com/graph?username=omaymaf&theme=github)
